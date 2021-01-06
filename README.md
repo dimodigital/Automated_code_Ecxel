@@ -1,4 +1,4 @@
-# Automated_code_Ecxel  \n
+# Automated_code_Ecxel
 - [ ]  First Download python latest vision use this link https://www.python.org/downloads/
 - [ ]  Then Download PyCharm IDE for get better experience with python
     1.  https://www.jetbrains.com/pycharm/download/#section=windows
