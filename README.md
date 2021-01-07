@@ -6,7 +6,7 @@
 	- [ ]  Then Create New Project
 	- [ ]  After That Copy Code from main.py
 	- [ ]  Then Install xlxwriter
-		XlsxWriter is a Python module for writing files in the Excel 2007+ XLSX file format.
+		- [ ]  XlsxWriter is a Python module for writing files in the Excel 2007+ XLSX file format.
 		1.  Open terminal in Pychrm 
 		2.  then type,
 		3.  **pip install xlsxwriter**
@@ -17,3 +17,4 @@
 	1.  Then Create new folder
 	2.  clone this Repository
 	3.  Then type , **pip install -r requirements.txt**
+	4.  Run Code  **fileName.py** in terminal
